@@ -12,7 +12,6 @@ var {
   TouchableOpacity,
   Text,
   StyleSheet,
-  PropTypes,
   ActivityIndicatorIOS,
   ProgressBarAndroid,
   Platform
